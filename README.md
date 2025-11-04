@@ -1,13 +1,26 @@
 # TrabalhoTS
 
-Site de coquetelaria desenvolvido na linguagem TypeScript: https://www.typescriptlang.org/ (Site oficial da documentação) usando o framework React: https://react.dev/ (Site oficial do framework)
+# Página de Login - React + TypeScript
 
--Integrantes do grupo:
--->Pedro Victor Rodrigues
-Componentes desenvolvidos: PaginaLogin, LoginForm
--->Bruno lopes
-Componentes desenvolvidos:
--->Anderson
-Componentes desenvolvidos:
--->Ana
-Componentes desenvolvidos:
+Uma página de login moderna com tema escuro desenvolvida em React e TypeScript.
+
+## Tecnologias
+
+- React 18
+- TypeScript
+- CSS3
+
+## Funcionalidades
+
+- Design dark mode
+- Formulário de login com validação
+- Componentes funcionais
+- Interface responsiva
+
+## Como executar
+
+```bash
+npm install
+
+npm start
+```
