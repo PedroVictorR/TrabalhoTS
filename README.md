@@ -4,7 +4,7 @@ Site de coquetelaria desenvolvido na linguagem TypeScript: https://www.typescrip
 
 -Integrantes do grupo:
 -->Pedro Victor Rodrigues
-Componentes desenvolvidos:
+Componentes desenvolvidos: PaginaLogin, LoginForm
 -->Bruno lopes
 Componentes desenvolvidos:
 -->Anderson
